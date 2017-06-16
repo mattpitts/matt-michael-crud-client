@@ -1,0 +1,5 @@
+$(appready);
+
+  function appready() {
+    
+  }
